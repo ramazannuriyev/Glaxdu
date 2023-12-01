@@ -1,0 +1,45 @@
+.book-card {
+	width: 310px;
+	height: 260px;
+	margin: 15px;
+	z-index: 1;
+	bottom: 120px;
+	border-radius: 1px;
+}
+
+.card-header {
+	width: 20%;
+	height: 65%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #0D6EFD;
+	border: none;
+
+}
+
+.card-header img {
+	width: 50px;
+
+}
+
+.card-body {
+	width: 75%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.card-title {
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: 600;
+
+}
+
+.card-text {
+	width: 85%;
+	font-size: 17px;
+	font-family: sans-serif;
+	text-align: left;
+}

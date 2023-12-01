@@ -1,0 +1,12 @@
+.teacher-h5 {
+	color: #00A651;
+	font-size: 18px;
+	font-weight: 600;
+	font-family: sans-serif;
+}
+
+.teacher-card {
+	width: 200px;
+	height: 300px;
+	border: none;
+}
